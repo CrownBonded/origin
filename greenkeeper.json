@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "cmd/service-catalog/go/src/github.com/kubernetes-incubator/service-catalog/vendor/github.com/grpc-ecosystem/grpc-gateway/examples/browser/package.json"
+      ]
+    }
+  }
+}
